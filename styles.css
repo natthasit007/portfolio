@@ -16,8 +16,8 @@ a {
 /* General styles */
 body {
   font-family: Arial, sans-serif;
-  background: #010101;
-  color: #000000;
+  background: #635c5c;
+  color: #ffffff;
 }
 
 /* Container */
@@ -63,7 +63,7 @@ section {
 h2 {
   margin-bottom: 15px;
   font-size: 24px;
-  color: #444;
+  color: #6f6666;
 }
 
 /* Project Grid */
